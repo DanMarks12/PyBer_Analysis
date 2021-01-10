@@ -6,7 +6,7 @@ The purpose of our analysis was to explore ride sharing data of our ride service
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 We ran all kinds of analysis through our DataFrame to give different views on our business models in these cities. We started off with a scatter plot with all 3 city types represented to give a better comparison of each.
-![](Analysis\Fig1.png)
+![](Analysis\\Fig1.png)
 
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
